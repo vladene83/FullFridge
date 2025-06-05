@@ -1,5 +1,6 @@
 # FullFridge
-FullFridge is a concept of a social media platform built for drivers who want to stay connected, share experiences, and make the road feel less lonely.
+FullFridge is a unique social media platform created specifically for drivers. It helps users manage road rage by offering a safe, anonymous space to vent frustrations about reckless drivers. By allowing users to search license plate numbers and express their anger digitally, FullFridge turns road rage into a healthier, stress-reducing experience—without real-world confrontations.
+
 Got Road Rage? Here is the app for that!
 The Problem:
 We all know how frustrating traffic can be. Roads are often full of careless drivers, and it’s hard to stay calm and composed. Instead of taking that anger out on your loved ones, why not direct it where it belongs—at the person who caused it?
